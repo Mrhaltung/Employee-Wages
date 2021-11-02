@@ -19,6 +19,7 @@ namespace Employee_Wages
             Monthly_Emp_Wage.MonthlyEmpWage();
             While_Loop.WhileLoop();
             Method.Methods();
+            MultipleCompanyWage.MultipleCompanyWages();
 
             Console.ReadLine();
         }
