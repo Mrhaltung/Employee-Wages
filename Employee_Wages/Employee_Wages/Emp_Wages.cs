@@ -21,6 +21,10 @@ namespace Employee_Wages
             Method.Methods();
             MultipleCompanyWage.MultipleCompanyWages();
 
+            MultipleCompanyWages("apple",20,20,400);
+            MultipleCompanyWages("microsoft", 10, 20, 8);
+            MultipleCompanyWages("google", 25, 20, 100);
+
             Console.ReadLine();
         }
     }
